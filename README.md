@@ -100,5 +100,5 @@ endmodule
 <img width="1093" height="230" alt="Screenshot 2025-11-22 083506" src="https://github.com/user-attachments/assets/c5074a6b-dd96-4687-92e8-5ba9e452acb6" />
 
 **Result:**
-
+     Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
